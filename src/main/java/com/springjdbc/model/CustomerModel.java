@@ -20,6 +20,11 @@ public class CustomerModel {
 
 	}
 
+	@Override
+	public String toString() {
+		return "CustomerModel [Customer Id=" + custId + ", Customer name=" + name + ", Customer age=" + age + "]";
+	}
+
 	public int getCustId() {
 		return custId;
 	}
