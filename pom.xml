@@ -6,7 +6,7 @@
 	<artifactId>SpringJDBCTemplate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<spring.framework>5.1.5.RELEASE</spring.framework>
+		<spring.framework>5.2.24.RELEASE</spring.framework>
 	</properties>
 	<dependencies>
 		<dependency>
